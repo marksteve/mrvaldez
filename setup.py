@@ -13,3 +13,8 @@ setup(
     # Mr. Valdez requires nothing
   ],
 )
+
+
+# You actually need more details if you're going to submit
+# an actual usable package but mine is simple so these would do
+
