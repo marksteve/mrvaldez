@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
   name='mrvaldez',
-  version='0.1.0',
+  version='0.1.1',
   py_modules=['mrvaldez'],
   author='Mark Steve Samson',
   author_email='contact@marksteve.me',
