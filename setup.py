@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-  name='Mr_Valdez',
+  name='mrvaldez',
   version='0.1.0',
   py_modules=['mrvaldez'],
   author='Mark Steve Samson',
