@@ -2,7 +2,7 @@ import random
 import webbrowser
 
 
-HOST = 'marksteve.github.com'
+HOST = 'marksteve.github.io'
 
 
 def cartwheel():
